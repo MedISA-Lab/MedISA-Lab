@@ -6,7 +6,7 @@
 ### Mentored by Dr. Angshuman Paul
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Medisa_Lab-0077B5?logo=linkedin)](https://www.linkedin.com/company/medisa-lab/)
-[![Website](https://img.shields.io/badge/Website-Under_Construction-lightgrey)](https://medisalab.github.io/MedISA/)
+[![Website](https://img.shields.io/badge/Website-lightgrey)](https://medisalab.github.io/MedISA/)
 [![GitHub](https://img.shields.io/badge/GitHub-MedISA_Lab-181717?logo=github)](https://github.com/medisa-lab)
 
 </div>
